@@ -46,28 +46,33 @@ Both scripts report the following system statistics:
 - MacOS (the Go script uses top, vm_stat, and other macOS-specific commands)
  
 2. Run:
-1: ```bash
+```bash
 go run main.go
+```
 
 2: build and run:
 ```bash
 go build -o perfmonitor Script.go
 ./perfmonitor
+```
 
 
 
-#Zsh Script
+## Zsh Script
 1. Make the script executable:
 ```bash
 chmod +x monitor.zsh
+```
 
 2. Run the script:
 ```bash
 ./monitor.zsh
+```
 
 Or run directly with Zsh:
 ```bash
 zsh monitor.zsh
+```
 
 ## 📌 Notes
 - These scripts are macOS specific due to the use of tools like top -l, vm_stat, and sw_vers.
