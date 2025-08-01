@@ -40,7 +40,7 @@ Both scripts report the following system statistics:
 
 ## 🏁 How to Run
 ## Go Script
-- 1. Prerequisites:
+- Prerequisites:
 - Go installed (go version)
 
 - MacOS (the Go script uses top, vm_stat, and other macOS-specific commands)
