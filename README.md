@@ -86,3 +86,6 @@ zsh monitor.zsh
 - 2:Network stats
 - 3:JSON/CSV output formats
 - 4:Web dashboard integration (e.g., using Go + HTML)
+
+## Project Url
+- https://roadmap.sh/projects/server-stats
