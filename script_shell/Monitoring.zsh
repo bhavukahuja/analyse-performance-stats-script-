@@ -1,4 +1,4 @@
-#!/bin/```bash
+#!/bin/zsh
 
 echo "Server Performance Stats"
 echo "======================="
